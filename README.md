@@ -16,15 +16,6 @@
 
 ## 🔥 Featured Projects
 
-### 🛒 [JD Local Subsidy Channel — C-end Product Design](https://github.com/hanjiayuan2025-coder/jd-subsidy-channel)
->
-> End-to-end product design for JD's provincial subsidy e-commerce channel
-
-- 📋 Designed 3-tier entry strategy (Homepage Tab + Floating Badge + Search) achieving **30%+ channel exposure rate**
-- 🗺️ Built IP-based province auto-detection & smart Tab sorting system
-- 💳 Designed cross-APP qualification flow (JD → UnionPay → JD bind-back)
-- 📊 Result: **40%+ qualification conversion rate**, **15%+ monthly GMV contribution**
-
 ### 🤖 [Xiaomi Smart Customer Service — Multi-Agent Architecture](https://github.com/hanjiayuan2025-coder/xiaomi-agent-cs)
 >
 > Redesigning Xiaomi's customer service bot with LLM-powered multi-Agent system
