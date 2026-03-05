@@ -1,6 +1,6 @@
 # Hi there, I'm Jiayuan (Monica) Han
 
-### AI Product Manager | LLM / Agent / Multimodal | Turning AI capabilities into user-centric products that drive real business impact
+### AI Product Manager | LLM | Agent | Multimodal | Turning AI capabilities into user-centric products that drive real business impact
 
 ---
 
@@ -44,7 +44,7 @@
 
                   | Product | AI / ML | Data |
                   |---|---|---|
-                  | Figma / Axure / Xmind | LLM / Agent / Multimodal | Python / SQL / Excel |
+                  | Figma | Axure | Xmind | LLM | Agent | Multimodal | Python | SQL | Excel |
 
                   ---
 
